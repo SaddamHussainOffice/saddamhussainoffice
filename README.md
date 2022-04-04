@@ -12,7 +12,7 @@
 <br />
 <h1>Connect with me</h1>
 <ul>
-<li><img src="https://github.com/SaddamHussainOffice/THESADDAMHUSSAIN/blob/main/icons/linkedin.svg" height=15> Linkedin: <a href="https://www.instagram.com/THESADDAMmmHUSSAIN">THESADDAMHUSSAIN</a></li>
+<li><img src="https://github.com/SaddamHussainOffice/THESADDAMHUSSAIN/blob/main/icons/linkedin.svg" height=15> Linkedin: <a href="https://www.linkedin.com/in/thesaddam-hussain">THESADDAMHUSSAIN</a></li>
 </ul>
 <hr>
 <p align="center">
