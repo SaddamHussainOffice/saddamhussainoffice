@@ -12,7 +12,7 @@
 <br />
 <h1>Connect with me</h1>
 <ul>
-<li><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F9911%2Flinkedin&psig=AOvVaw0YcuVEIbUSAxyXsTffXPW4&ust=1649161729595000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOCe1qu0-vYCFQAAAAAdAAAAABAD" height=15> Linkedin: <a href="https://www.linkedin.com/in/thesaddam-hussain">THESADDAMHUSSAIN</a></li>
+<li><img src="https://www.svgrepo.com/show/9911/linkedin.svg" height=15> Linkedin: <a href="https://www.linkedin.com/in/thesaddam-hussain">THESADDAMHUSSAIN</a></li>
 </ul>
 <hr>
 <p align="center">
