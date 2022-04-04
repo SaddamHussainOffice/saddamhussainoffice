@@ -12,7 +12,7 @@
 <br />
 <h1>Connect with me</h1>
 <ul>
-<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/THESADDAMmmHUSSAIN">THESADDAMHUSSAIN</a></li>
+<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/linkedin.svg" height=15> Linkedin: <a href="https://www.instagram.com/THESADDAMmmHUSSAIN">THESADDAMHUSSAIN</a></li>
 </ul>
 <hr>
 <p align="center">
